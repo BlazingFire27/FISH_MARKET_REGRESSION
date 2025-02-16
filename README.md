@@ -7,7 +7,8 @@ The project utilizes the Fish Market dataset, which is publicly available on Kag
 
 ## Project Overview
 The core of the project is to implement and understand Linear Regression using Gradient Descent.
-The model is trained on the Fish Market dataset to predict fish weights based on various features, aiming to plot a straight line that best fits the data.
+And trying to implement Gradient Descent from scratch without using libraries like Tensorflow, Keras etc.
+The model is trained on the Fish Market dataset to predict fish weights based on various features like length1, length2 length3, height, width... aiming to plot a straight line for each that best fits the data.
 The project demonstrates the iterative process of Gradient Descent, which finds the weights and bias that produce the model with the lowest loss.
 The Jupyter Notebook included in this repository provides a detailed walkthrough of the model architecture, training loop and evaluation metrics.
 
@@ -17,11 +18,35 @@ To replicate the project results, it is necessary that the Fish Market dataset f
 
 ## Training Results
 
-The following plot illustrates the performance of the linear regression model
+The following plots illustrate the performance of the linear regression model
 
-### Model Predicted Best Fit Straight Line
+### Best Fit Straight Line For Weight vs Length1
 
-![Model Prediction Plot](IMAGES/predicted_straight_line.png)
+![Model Prediction Plot](IMAGES/length1 vs weight.png)
+
+This plot shows the best fit straight line (dotted red) along with the actual data points (blue) from the dataset.
+
+### Best Fit Straight Line For Weight vs Length2
+
+![Model Prediction Plot](IMAGES/length2 vs weight.png)
+
+This plot shows the best fit straight line (dotted red) along with the actual data points (blue) from the dataset.
+
+### Best Fit Straight Line For Weight vs Length3
+
+![Model Prediction Plot](IMAGES/length3 vs weight.png)
+
+This plot shows the best fit straight line (dotted red) along with the actual data points (blue) from the dataset.
+
+### Best Fit Straight Line For Weight vs Height
+
+![Model Prediction Plot](IMAGES/height vs weight.png)
+
+This plot shows the best fit straight line (dotted red) along with the actual data points (blue) from the dataset.
+
+### Best Fit Straight Line For Weight vs Width
+
+![Model Prediction Plot](IMAGES/width vs weight.png)
 
 This plot shows the best fit straight line (dotted red) along with the actual data points (blue) from the dataset.
 
