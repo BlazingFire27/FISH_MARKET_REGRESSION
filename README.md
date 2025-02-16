@@ -22,31 +22,31 @@ The following plots illustrate the performance of the linear regression model
 
 ### Best Fit Straight Line For Weight vs Length1
 
-![Model Prediction Plot](IMAGES/length1 vs weight.png)
+![Model Prediction Plot](IMAGES/length1%20vs%20weight.png)
 
 This plot shows the best fit straight line (dotted red) along with the actual data points (blue) from the dataset.
 
 ### Best Fit Straight Line For Weight vs Length2
 
-![Model Prediction Plot](IMAGES/length2 vs weight.png)
+![Model Prediction Plot](IMAGES/length2%20vs%20weight.png)
 
 This plot shows the best fit straight line (dotted red) along with the actual data points (blue) from the dataset.
 
 ### Best Fit Straight Line For Weight vs Length3
 
-![Model Prediction Plot](IMAGES/length3 vs weight.png)
+![Model Prediction Plot](IMAGES/length3%20vs%20weight.png)
 
 This plot shows the best fit straight line (dotted red) along with the actual data points (blue) from the dataset.
 
 ### Best Fit Straight Line For Weight vs Height
 
-![Model Prediction Plot](IMAGES/height vs weight.png)
+![Model Prediction Plot](IMAGES/height%20vs%20weight.png)
 
 This plot shows the best fit straight line (dotted red) along with the actual data points (blue) from the dataset.
 
 ### Best Fit Straight Line For Weight vs Width
 
-![Model Prediction Plot](IMAGES/width vs weight.png)
+![Model Prediction Plot](IMAGES/width%20vs%20weight.png)
 
 This plot shows the best fit straight line (dotted red) along with the actual data points (blue) from the dataset.
 
